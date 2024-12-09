@@ -1,0 +1,596 @@
+﻿match,bowlingTeam,bowlerName,overs,maiden,runsConceded,wickets,economy,dotBalls,s4_Conceded,s6_Conceded,wides,noBalls,Match_Id
+India Vs South Africa,South Africa,Marco Jansen,40,0,49,1,1225,4,5,2,1,1,
+India Vs South Africa,South Africa,Keshav Maharaj,30,0,23,2,766,10,3,1,0,0,
+India Vs South Africa,South Africa,Kagiso Rabada,40,0,36,1,90,8,2,2,2,0,
+India Vs South Africa,South Africa,Aiden Markram,20,0,16,0,80,1,0,1,0,0,
+India Vs South Africa,South Africa,Anrich Nortje,40,0,26,2,65,7,2,0,2,0,
+India Vs South Africa,South Africa,Tabraiz Shamsi,30,0,26,0,866,4,1,1,1,0,
+India Vs South Africa,India,Arshdeep Singh,40,0,20,2,50,12,2,0,0,0,
+India Vs South Africa,India,Jasprit Bumrah,40,0,18,2,45,14,2,0,0,0,
+India Vs South Africa,India,Axar Patel,40,0,49,1,1225,8,5,3,2,0,
+India Vs South Africa,India,Kuldeep Yadav,40,0,45,0,1125,6,3,3,0,0,
+India Vs South Africa,India,Hardik Pandya,30,0,20,3,666,9,1,1,1,1,
+India Vs South Africa,India,Ravindra Jadeja,10,0,12,0,120,0,0,1,0,0,
+India Vs England,England,Reece Topley,30,0,25,1,833,8,3,1,0,0,
+India Vs England,England,Jofra Archer,40,0,33,1,825,7,4,0,0,0,
+India Vs England,England,Sam Curran,20,0,25,1,125,3,2,2,0,0,
+India Vs England,England,Adil Rashid,40,0,25,1,625,9,3,0,0,0,
+India Vs England,England,Chris Jordan,30,0,37,3,1233,4,0,4,0,0,
+India Vs England,England,Liam Livingstone,40,0,24,0,60,9,1,1,1,0,
+India Vs England,India,Arshdeep Singh,20,0,17,0,85,5,3,0,0,0,
+India Vs England,India,Jasprit Bumrah,24,0,12,2,45,8,1,0,0,0,
+India Vs England,India,Axar Patel,40,0,23,3,575,10,0,1,0,0,
+India Vs England,India,Kuldeep Yadav,40,0,33333,3,475,12,2,0,0,0,
+India Vs England,India,Ravindra Jadeja,30,0,16,0,533,6,1,0,0,0,
+India Vs England,India,Hardik Pandya,10,0,14,0,140,1,1,1,0,0,
+Afghanistan Vs South Africa,South Africa,Marco Jansen,30,0,16,3,533,13,2,0,4,0,
+Afghanistan Vs South Africa,South Africa,Keshav Maharaj,10,0,6,0,60,3,1,0,0,0,
+Afghanistan Vs South Africa,South Africa,Kagiso Rabada,30,1,14,2,466,13,3,0,0,0,
+Afghanistan Vs South Africa,South Africa,Anrich Nortje,30,0,7,2,233,14,0,0,1,0,
+Afghanistan Vs South Africa,South Africa,Tabraiz Shamsi,15,0,6,3,327,9,1,0,1,0,
+Afghanistan Vs South Africa,Afghanistan,Naveen-ul-Haq,30,0,15,0,50,12,2,0,1,0,
+Afghanistan Vs South Africa,Afghanistan,Fazalhaq Farooqi,20,0,11,1,55,9,2,0,1,0,
+Afghanistan Vs South Africa,Afghanistan,Rashid Khan,10,0,8,0,80,2,1,0,0,0,
+Afghanistan Vs South Africa,Afghanistan,Azmatullah Omarzai,15,0,18,0,981,6,2,1,0,1,
+Afghanistan Vs South Africa,Afghanistan,Gulbadin Naib,10,0,8,0,80,2,1,0,0,0,
+Afghanistan Vs Bangladesh,Bangladesh,Tanzim Hasan Sakib,40,0,36,0,90,9,1,2,1,0,
+Afghanistan Vs Bangladesh,Bangladesh,Taskin Ahmed,40,1,12,1,30,19,0,1,0,0,
+Afghanistan Vs Bangladesh,Bangladesh,Shakib Al Hasan,40,0,19,0,475,11,0,1,0,0,
+Afghanistan Vs Bangladesh,Bangladesh,Mustafizur Rahman,40,0,17,1,425,14,2,0,0,0,
+Afghanistan Vs Bangladesh,Bangladesh,Rishad Hossain,40,0,26,3,65,13,3,0,1,0,
+Afghanistan Vs Bangladesh,Afghanistan,Naveen-ul-Haq,35,0,26,4,678,12,3,1,0,0,
+Afghanistan Vs Bangladesh,Afghanistan,Fazalhaq Farooqi,20,0,15,1,75,3,1,0,2,0,
+Afghanistan Vs Bangladesh,Afghanistan,Mohammad Nabi,20,0,15,0,75,5,2,0,0,0,
+Afghanistan Vs Bangladesh,Afghanistan,Rashid Khan,40,0,23,4,575,9,2,0,1,0,
+Afghanistan Vs Bangladesh,Afghanistan,Noor Ahmad,40,0,13,0,325,18,2,0,0,0,
+Afghanistan Vs Bangladesh,Afghanistan,Gulbadin Naib,20,0,5,1,25,7,0,0,0,0,
+India Vs Australia,Australia,Mitchell Starc,40,0,45,2,1125,12,4,4,1,0,
+India Vs Australia,Australia,Josh Hazlewood,40,0,14,1,35,13,1,0,0,0,
+India Vs Australia,Australia,Pat Cummins,40,0,48,0,120,5,4,3,0,0,
+India Vs Australia,Australia,Adam Zampa,40,0,41,0,1025,2,1,3,0,0,
+India Vs Australia,Australia,Marcus Stoinis,40,0,56,2,140,6,4,5,1,0,
+India Vs Australia,India,Arshdeep Singh,40,0,37,3,925,12,4,2,2,0,
+India Vs Australia,India,Jasprit Bumrah,40,0,29,1,725,11,3,1,0,0,
+India Vs Australia,India,Axar Patel,30,0,21,1,70,9,2,1,0,0,
+India Vs Australia,India,Hardik Pandya,40,0,47,0,1175,8,4,3,1,0,T20I # 2721
+India Vs Australia,India,Kuldeep Yadav,40,0,24,2,60,9,1,1,0,0,T20I # 2721
+India Vs Australia,India,Ravindra Jadeja,10,0,17,0,170,0,2,1,0,0,T20I # 2721
+West Indies Vs South Africa,South Africa,Marco Jansen,20,0,17,1,85,6,2,0,4,0,T20I # 2720
+West Indies Vs South Africa,South Africa,Aiden Markram,40,0,28,1,70,11,1,2,2,0,T20I # 2720
+West Indies Vs South Africa,South Africa,Keshav Maharaj,40,0,24,1,60,10,1,1,0,0,T20I # 2720
+West Indies Vs South Africa,South Africa,Anrich Nortje,40,0,26,0,65,13,1,2,2,0,T20I # 2720
+West Indies Vs South Africa,South Africa,Tabraiz Shamsi,40,0,27,3,675,11,3,1,0,0,T20I # 2720
+West Indies Vs South Africa,South Africa,Kagiso Rabada,20,0,11,1,55,7,0,1,0,0,T20I # 2720
+West Indies Vs South Africa,West Indies,Akeal Hosein,30,0,31,0,1033,6,6,0,0,0,T20I # 2720
+West Indies Vs South Africa,West Indies,Andre Russell,40,0,19,2,475,13,2,0,1,0,T20I # 2720
+West Indies Vs South Africa,West Indies,Alzarri Joseph,40,0,25,2,625,9,1,0,1,0,T20I # 2720
+West Indies Vs South Africa,West Indies,Gudakesh Motie,10,0,20,0,200,0,3,1,0,0,T20I # 2720
+West Indies Vs South Africa,West Indies,Obed McCoy,11,0,15,0,1285,3,1,1,3,0,T20I # 2720
+West Indies Vs South Africa,West Indies,Roston Chase,30,0,12,3,40,10,1,0,0,0,T20I # 2720
+United States of America Vs England,England,Reece Topley,30,0,29,1,966,8,2,2,0,0,T20I # 2719
+United States of America Vs England,England,Jofra Archer,30,0,16,0,533,12,1,1,0,0,T20I # 2719
+United States of America Vs England,England,Sam Curran,20,0,23,2,115,4,3,1,0,0,T20I # 2719
+United States of America Vs England,England,Adil Rashid,40,0,13,2,325,13,0,0,1,0,T20I # 2719
+United States of America Vs England,England,Liam Livingstone,40,0,24,1,60,10,1,1,0,0,T20I # 2719
+United States of America Vs England,England,Chris Jordan,25,0,10,4,352,8,0,0,0,0,T20I # 2719
+United States of America Vs England,United States of America,Saurabh Netravalkar,20,0,21,0,105,5,1,2,0,0,T20I # 2719
+United States of America Vs England,United States of America,Harmeet Singh,20,0,36,0,180,3,0,5,2,0,T20I # 2719
+United States of America Vs England,United States of America,Nosthush Kenjige,20,0,19,0,95,3,3,0,0,0,T20I # 2719
+United States of America Vs England,United States of America,Ali Khan,20,0,26,0,130,2,2,0,2,0,T20I # 2719
+United States of America Vs England,United States of America,Shadley van Schalkwyk,14,0,15,0,90,2,2,0,0,1,T20I # 2719
+Afghanistan Vs Australia,Australia,Ashton Agar,40,1,17,0,425,444444,1,0,0,0,T20I # 2717
+Afghanistan Vs Australia,Australia,Josh Hazlewood,40,0,39,0,975,10,4,2,1,0,T20I # 2717
+Afghanistan Vs Australia,Australia,Pat Cummins,40,0,28,3,70,13,3,1,1,0,T20I # 2717
+Afghanistan Vs Australia,Australia,Adam Zampa,40,0,28,2,70,9,2,1,1,0,T20I # 2717
+Afghanistan Vs Australia,Australia,Glenn Maxwell,20,0,12,0,60,5,1,0,1,0,T20I # 2717
+Afghanistan Vs Australia,Australia,Marcus Stoinis,20,0,19,1,95,4,1,1,0,0,T20I # 2717
+Afghanistan Vs Australia,Afghanistan,Naveen-ul-Haq,40,0,20,3,50,12,2,0,0,0,T20I # 2717
+Afghanistan Vs Australia,Afghanistan,Fazalhaq Farooqi,30,0,21,0,70,8,2,0,0,1,T20I # 2717
+Afghanistan Vs Australia,Afghanistan,Azmatullah Omarzai,12,0,10,1,75,5,2,0,0,0,T20I # 2717
+Afghanistan Vs Australia,Afghanistan,Mohammad Nabi,10,0,1,1,10,5,0,0,0,0,T20I # 2717
+Afghanistan Vs Australia,Afghanistan,Nangeyalia Kharote,10,0,13,0,130,1,1,1,0,0,T20I # 2717
+Afghanistan Vs Australia,Afghanistan,Rashid Khan,40,0,23,1,575,11,1,1,2,0,T20I # 2717
+Afghanistan Vs Australia,Afghanistan,Noor Ahmad,10,0,11,0,110,3,1,0,1,0,T20I # 2717
+Afghanistan Vs Australia,Afghanistan,Gulbadin Naib,40,0,20,4,50,13,1,1,0,0,T20I # 2717
+India Vs Bangladesh,Bangladesh,Mahedi Hasan,40,0,28,0,70,9,2,1,0,0,T20I # 2716
+India Vs Bangladesh,Bangladesh,Shakib Al Hasan,30,0,37,1,122,5,2,3,1,0,T20I # 2716
+India Vs Bangladesh,Bangladesh,Tanzim Hasan Sakib,40,0,32,2,80,11,1,3,1,0,T20I # 2716
+India Vs Bangladesh,Bangladesh,Mustafizur Rahman,40,0,48,0,120,6,5,2,1,1,T20I # 2716
+India Vs Bangladesh,Bangladesh,Rishad Hossain,30,0,43,2,123,4,2,4,2,0,T20I # 2716
+India Vs Bangladesh,Bangladesh,Mahmudullah,20,0,8,0,40,5,0,0,1,0,T20I # 2716
+India Vs Bangladesh,India,Arshdeep Singh,40,0,30,2,75,12,4,1,1,0,T20I # 2716
+India Vs Bangladesh,India,Jasprit Bumrah,40,0,13,2,325,15,1,0,0,0,T20I # 2716
+India Vs Bangladesh,India,Axar Patel,20,0,26,0,130,2,2,2,0,0,T20I # 2716
+India Vs Bangladesh,India,Hardik Pandya,30,0,32,1,133,6,1,3,2,0,T20I # 2716
+India Vs Bangladesh,India,Ravindra Jadeja,30,0,24,0,80,5,2,1,0,0,T20I # 2716
+India Vs Bangladesh,India,Kuldeep Yadav,40,0,19,3,275,11,0,1,0,0,T20I # 2716
+United States of America Vs West Indies,West Indies,Akeal Hosein,30,0,13,0,433,8,1,0,0,0,T20I # 2713
+United States of America Vs West Indies,West Indies,Andre Russell,35,0,31,3,500,13,3,1,3,0,T20I # 2713
+United States of America Vs West Indies,West Indies,Obed McCoy,20,0,20,0,100,4,3,0,1,0,T20I # 2713
+United States of America Vs West Indies,West Indies,Alzarri Joseph,40,0,31,2,566,9,1,2,1,1,T20I # 2713
+United States of America Vs West Indies,West Indies,Gudakesh Motie,30,0,14,1,466,9,1,0,0,0,T20I # 2713
+United States of America Vs West Indies,West Indies,Roston Chase,40,0,19,3,475,9,1,0,1,0,T20I # 2713
+United States of America Vs West Indies,United States of America,Saurabh Netravalkar,25,0,31,0,1094,7,2,3,0,0,T20I # 2713
+United States of America Vs West Indies,United States of America,Nosthush Kenjige,10,0,11,0,110,1,0,1,0,0,T20I # 2713
+United States of America Vs West Indies,United States of America,Ali Khan,20,0,18,0,90,5,1,1,2,0,T20I # 2713
+United States of America Vs West Indies,United States of America,Harmeet Singh,20,0,18,1,90,4,1,1,0,0,T20I # 2713
+United States of America Vs West Indies,United States of America,Shadley van Schalkwyk,20,0,29,0,145,3,3,2,1,0,T20I # 2713
+United States of America Vs West Indies,United States of America,Milind Kumar,10,0,22,0,220,1,0,3,1,0,T20I # 2713
+South Africa Vs England,England,Reece Topley,40,0,23,0,575,8,1,0,2,0,T20I # 2712
+South Africa Vs England,England,Moeen Ali,30,0,25,1,833,6,2,1,0,0,T20I # 2712
+South Africa Vs England,England,Jofra Archer,40,0,40,3,100,10,3,3,1,0,T20I # 2712
+South Africa Vs England,England,Sam Curran,30,0,29,0,966,7,1,2,1,0,T20I # 2712
+South Africa Vs England,England,Adil Rashid,40,0,20,1,50,9,1,0,0,0,T20I # 2712
+South Africa Vs England,England,Mark Wood,20,0,22,0,110,4,4,0,2,0,T20I # 2712
+South Africa Vs England,South Africa,Marco Jansen,40,0,31,0,775,9,2,1,0,1,T20I # 2712
+South Africa Vs England,South Africa,Kagiso Rabada,40,0,32,2,80,9,3,1,2,0,T20I # 2712
+South Africa Vs England,South Africa,Keshav Maharaj,40,0,25,2,625,9,2,0,0,0,T20I # 2712
+South Africa Vs England,South Africa,Ottneil Baartman,30,0,27,1,90,7,3,1,0,0,T20I # 2712
+South Africa Vs England,South Africa,Anrich Nortje,40,0,35,1,875,4,4,0,1,0,T20I # 2712
+South Africa Vs England,South Africa,Aiden Markram,10,0,4,0,40,2,0,0,0,0,T20I # 2712
+Bangladesh Vs Australia,Australia,Mitchell Starc,40,0,21,1,525,15,3,0,2,0,T20I # 2711
+Bangladesh Vs Australia,Australia,Josh Hazlewood,40,1,25,0,544,12,1,1,1,0,T20I # 2711
+Bangladesh Vs Australia,Australia,Pat Cummins,40,0,29,3,665,8,1,0,3,0,T20I # 2711
+Bangladesh Vs Australia,Australia,Adam Zampa,40,0,24,2,60,10,3,0,0,0,T20I # 2711
+Bangladesh Vs Australia,Australia,Marcus Stoinis,20,0,33333,1,120,3,1,2,1,0,T20I # 2711
+Bangladesh Vs Australia,Australia,Glenn Maxwell,20,0,14,1,70,3,1,0,0,0,T20I # 2711
+Bangladesh Vs Australia,Bangladesh,Mahedi Hasan,40,0,22,0,55,15,1,2,0,0,T20I # 2711
+Bangladesh Vs Australia,Bangladesh,Tanzim Hasan Sakib,10,0,9,0,90,2,1,0,0,0,T20I # 2711
+Bangladesh Vs Australia,Bangladesh,Taskin Ahmed,12,0,22,0,165,2,2,2,0,0,T20I # 2711
+Bangladesh Vs Australia,Bangladesh,Mustafizur Rahman,20,0,23,0,115,3,3,1,0,0,T20I # 2711
+Bangladesh Vs Australia,Bangladesh,Rishad Hossain,30,0,23,2,766,7,2,1,0,0,T20I # 2711
+India Vs Afghanistan,Afghanistan,Fazalhaq Farooqi,40,0,33,3,825,12,4,1,2,0,T20I # 2710
+India Vs Afghanistan,Afghanistan,Mohammad Nabi,30,0,24,0,80,7,3,0,0,0,T20I # 2710
+India Vs Afghanistan,Afghanistan,Naveen-ul-Haq,40,0,40,1,100,9,3,2,3,0,T20I # 2710
+India Vs Afghanistan,Afghanistan,Rashid Khan,40,0,26,3,65,13,3,1,0,0,T20I # 2710
+India Vs Afghanistan,Afghanistan,Noor Ahmad,30,0,30,0,100,4,1,2,1,0,T20I # 2710
+India Vs Afghanistan,Afghanistan,Azmatullah Omarzai,20,0,23,0,115,3,2,1,1,0,T20I # 2710
+India Vs Afghanistan,India,Arshdeep Singh,40,0,36,3,90,12,3,2,5,0,T20I # 2710
+India Vs Afghanistan,India,Jasprit Bumrah,40,1,7,3,175,20,1,0,0,0,T20I # 2710
+India Vs Afghanistan,India,Axar Patel,30,1,15,1,50,11,0,1,0,0,T20I # 2710
+India Vs Afghanistan,India,Hardik Pandya,20,0,13,0,65,8,1,1,1,0,T20I # 2710
+India Vs Afghanistan,India,Kuldeep Yadav,40,0,32,2,80,11,2,2,1,1,T20I # 2710
+India Vs Afghanistan,India,Ravindra Jadeja,30,0,20,1,666,4,0,1,0,0,T20I # 2710
+West Indies Vs England,England,Reece Topley,30,0,26,0,866,8,2,1,4,0,T20I # 2709
+West Indies Vs England,England,Mark Wood,30,0,36,0,120,7,3,2,4,0,T20I # 2709
+West Indies Vs England,England,Jofra Archer,40,0,34,1,85,12,5,1,1,0,T20I # 2709
+West Indies Vs England,England,Sam Curran,30,0,25,0,833,9,3,1,0,0,T20I # 2709
+West Indies Vs England,England,Adil Rashid,40,0,21,1,525,10,0,1,1,0,T20I # 2709
+West Indies Vs England,England,Moeen Ali,20,0,15,1,75,3,0,1,0,0,T20I # 2709
+West Indies Vs England,England,Liam Livingstone,10,0,20,1,200,2,0,3,0,0,T20I # 2709
+West Indies Vs England,West Indies,Akeal Hosein,40,0,35,0,875,9,4,1,1,0,T20I # 2709
+West Indies Vs England,West Indies,Romario Shepherd,20,0,41,0,205,2,5,3,1,0,T20I # 2709
+West Indies Vs England,West Indies,Andre Russell,20,0,21,1,105,2,0,1,2,0,T20I # 2709
+West Indies Vs England,West Indies,Alzarri Joseph,23,0,32,0,128,2,2,2,0,0,T20I # 2709
+West Indies Vs England,West Indies,Gudakesh Motie,40,0,32,0,80,8,4,0,0,0,T20I # 2709
+West Indies Vs England,West Indies,Roston Chase,30,0,19,1,633,6,1,0,2,0,T20I # 2709
+South Africa Vs United States of America,United States of America,Saurabh Netravalkar,40,0,21,2,525,12,2,0,0,0,T20I # 2708
+South Africa Vs United States of America,United States of America,Ali Khan,40,0,45,0,1125,7,1,4,2,0,T20I # 2708
+South Africa Vs United States of America,United States of America,Jasdeep Singh,20,0,36,0,180,2,2,3,2,1,T20I # 2708
+South Africa Vs United States of America,United States of America,Nosthush Kenjige,30,0,29,0,966,2,2,1,0,0,T20I # 2708
+South Africa Vs United States of America,United States of America,Harmeet Singh,40,0,24,2,60,8,2,0,0,1,T20I # 2708
+South Africa Vs United States of America,United States of America,Steven Taylor,20,0,21,0,105,3,2,1,0,0,T20I # 2708
+South Africa Vs United States of America,United States of America,Corey Anderson,10,0,17,0,170,0,2,1,0,0,T20I # 2708
+South Africa Vs United States of America,South Africa,Marco Jansen,30,0,32,0,1066,9,3,2,2,0,T20I # 2708
+South Africa Vs United States of America,South Africa,Aiden Markram,10,0,13,0,130,2,1,1,0,0,T20I # 2708
+South Africa Vs United States of America,South Africa,Kagiso Rabada,40,0,18,3,45,14,2,0,1,1,T20I # 2708
+South Africa Vs United States of America,South Africa,Keshav Maharaj,40,0,24,1,60,7,0,1,0,0,T20I # 2708
+South Africa Vs United States of America,South Africa,Anrich Nortje,40,0,37,1,925,10,2,3,1,0,T20I # 2708
+South Africa Vs United States of America,South Africa,Tabraiz Shamsi,40,0,50,1,125,5,3,4,2,0,T20I # 2708
+West Indies Vs Afghanistan,Afghanistan,Fazalhaq Farooqi,30,0,38,0,1266,4,5,1,1,1,T20I # 2703
+West Indies Vs Afghanistan,Afghanistan,Azmatullah Omarzai,20,0,41,1,205,5,4,3,1,1,T20I # 2703
+West Indies Vs Afghanistan,Afghanistan,Rashid Khan,40,0,45,0,1125,5,3,3,1,0,T20I # 2703
+West Indies Vs Afghanistan,Afghanistan,Naveen-ul-Haq,40,0,41,1,1025,10,4,2,2,0,T20I # 2703
+West Indies Vs Afghanistan,Afghanistan,Noor Ahmad,40,0,20,0,50,6,0,0,0,0,T20I # 2703
+West Indies Vs Afghanistan,Afghanistan,Mohammad Nabi,10,0,15,0,150,2,0,2,0,0,T20I # 2703
+West Indies Vs Afghanistan,Afghanistan,Gulbadin Naib,20,0,14,2,70,4,4444,1,0,0,T20I # 2703
+West Indies Vs Afghanistan,West Indies,Akeal Hosein,40,1,21,2,525,14,3,0,1,0,T20I # 2703
+West Indies Vs Afghanistan,West Indies,Andre Russell,22,0,17,1,728,6,1,1,0,0,T20I # 2703
+West Indies Vs Afghanistan,West Indies,Alzarri Joseph,30,0,30,1,100,7,4,1,1,0,T20I # 2703
+West Indies Vs Afghanistan,West Indies,Gudakesh Motie,40,0,28,2,70,12,1,2,0,0,T20I # 2703
+West Indies Vs Afghanistan,West Indies,Obed McCoy,30,0,14,3,466,9,1,0,0,0,T20I # 2703
+Papua New Guinea Vs New Zealand,New Zealand,Trent Boult,40,0,14,2,35,16,2,0,0,0,T20I # 2702
+Papua New Guinea Vs New Zealand,New Zealand,Tim Southee,40,0,11,2,275,18,1,0,2,0,T20I # 2702
+Papua New Guinea Vs New Zealand,New Zealand,Lockie Ferguson,40,4,0,3,0,24,0,0,0,0,T20I # 2702
+Papua New Guinea Vs New Zealand,New Zealand,Ish Sodhi,34,0,29,2,79,9,3,1,1,0,T20I # 2702
+Papua New Guinea Vs New Zealand,New Zealand,Mitchell Santner,40,0,17,1,425,14,1,0,1,0,T20I # 2702
+Papua New Guinea Vs New Zealand,Papua New Guinea,Kabua Morea,22,0,4,2,171,11,0,0,0,0,T20I # 2702
+Papua New Guinea Vs New Zealand,Papua New Guinea,Alei Nao,30,0,22,0,733,9,1,2,0,0,T20I # 2702
+Papua New Guinea Vs New Zealand,Papua New Guinea,Assad Vala,10,0,4,0,40,2,0,0,0,0,T20I # 2702
+Papua New Guinea Vs New Zealand,Papua New Guinea,Charles Amini,10,0,5,0,50,1,0,0,0,0,T20I # 2702
+Papua New Guinea Vs New Zealand,Papua New Guinea,Semo Kamea,30,0,23,1,766,8,4,0,0,0,T20I # 2702
+Papua New Guinea Vs New Zealand,Papua New Guinea,Chad Soper,10,0,14,0,140,2,1,1,0,0,T20I # 2702
+Papua New Guinea Vs New Zealand,Papua New Guinea,Norman Vanua,10,0,6,0,60,3,1,0,0,0,T20I # 2702
+Sri Lanka Vs Netherlands,Netherlands,Vivian Kingma,30,0,23,1,766,9,3,0,3,0,T20I # 2699
+Sri Lanka Vs Netherlands,Netherlands,Aryan Dutt,30,0,23,1,766,5,1,1,1,0,T20I # 2699
+Sri Lanka Vs Netherlands,Netherlands,Logan van Beek,40,0,45,2,1125,8,1,4,2,0,T20I # 2699
+Sri Lanka Vs Netherlands,Netherlands,Paul van Meekeren,30,0,37,1,1233,4,3,2,2,0,T20I # 2699
+Sri Lanka Vs Netherlands,Netherlands,Tim Pringle,40,0,41,1,1025,3,3,2,0,0,T20I # 2699
+Sri Lanka Vs Netherlands,Netherlands,Bas de Leede,30,0,32,0,1066,5,1,2,0,0,T20I # 2699
+Sri Lanka Vs Netherlands,Sri Lanka,Angelo Mathews,20,0,20,0,100,7,0,2,1,1,T20I # 2699
+Sri Lanka Vs Netherlands,Sri Lanka,Nuwan Thushara,34,0,24,3,654,11,2,1,2,0,T20I # 2699
+Sri Lanka Vs Netherlands,Sri Lanka,Maheesh Theekshana,30,0,25,1,833,7,1,2,1,0,T20I # 2699
+Sri Lanka Vs Netherlands,Sri Lanka,Wanindu Hasaranga,40,0,25,2,625,10,1,1,0,0,T20I # 2699
+Sri Lanka Vs Netherlands,Sri Lanka,Dasun Shanaka,10,0,10,1,100,1,1,0,0,0,T20I # 2699
+Sri Lanka Vs Netherlands,,,,,,,,,,,1,0,T20I # 2699
+Bangladesh Vs Nepal,,,,,,,,,,,0,0,T20I # 2698
+Bangladesh Vs Nepal,Nepal,Dipendra Singh Airee,33,0,22,2,628,11,3,0,0,0,T20I # 2698
+Bangladesh Vs Nepal,Nepal,Rohit Paudel,40,0,20,2,50,11,2,0,0,0,T20I # 2698
+Bangladesh Vs Nepal,Nepal,Sandeep Lamichhane,40,1,17,2,425,15,2,0,1,0,
+Bangladesh Vs Nepal,Nepal,Kushal Bhurtel,40,0,22,0,55,12,1,1,2,0,
+Bangladesh Vs Nepal,Nepal,Abinash Bohara,10,0,10,0,100,3,1,0,2,0,
+Bangladesh Vs Nepal,Bangladesh,Tanzim Hasan Sakib,40,2,7,4,175,21,1,0,1,0,
+Bangladesh Vs Nepal,Bangladesh,Taskin Ahmed,40,0,29,1,725,13,4,1,1,0,
+Bangladesh Vs Nepal,Bangladesh,Mustafizur Rahman,40,1,7,3,175,20,1,0,0,0,
+Bangladesh Vs Nepal,Bangladesh,Rishad Hossain,30,0,15,0,50,13,1,0,1,0,
+Bangladesh Vs Nepal,Bangladesh,Shakib Al Hasan,22,0,9,2,385,7,0,0,0,0,
+Bangladesh Vs Nepal,Bangladesh,Mahmudullah,20,0,15,0,75,6,1,1,0,0,
+Ireland Vs Pakistan,Pakistan,Shaheen Shah Afridi,40,0,22,3,55,16,3,0,1,0,
+Ireland Vs Pakistan,Pakistan,Mohammad Amir,40,1,11,2,275,20,2,0,0,0,
+Ireland Vs Pakistan,Pakistan,Haris Rauf,40,0,17,1,425,16,1,1,0,0,
+Ireland Vs Pakistan,Pakistan,Abbas Afridi,30,0,31,0,1033,5,1,2,2,0,
+Ireland Vs Pakistan,Pakistan,Shadab Khan,10,0,11,0,110,3,1,1,0,0,
+Ireland Vs Pakistan,Pakistan,Imad Wasim,40,0,8,3,20,17,0,0,0,0,
+Ireland Vs Pakistan,Ireland,Mark Adair,40,0,1134,1,60,14,1,1,1,0,
+Ireland Vs Pakistan,Ireland,Josh Little,30,0,17,0,566,11,3,0,0,0,
+Ireland Vs Pakistan,Ireland,Barry McCarthy,40,1,15,3,375,15,1,0,1,0,
+Ireland Vs Pakistan,Ireland,Ben White,20,0,11,1,55,5,1,0,0,0,
+Ireland Vs Pakistan,Ireland,Curtis Campher,40,0,24,2,60,12,2,1,0,0,
+Ireland Vs Pakistan,Ireland,Gareth Delany,15,0,19,0,1036,3,0,2,1,0,
+Scotland Vs Australia,Australia,Ashton Agar,40,0,39,1,975,6,0,3,1,0,
+Scotland Vs Australia,Australia,Mitchell Starc,40,0,31,0,775,10,1,2,1,0,
+Scotland Vs Australia,Australia,Nathan Ellis,40,0,34,1,85,7,2,1,3,0,
+Scotland Vs Australia,Australia,Glenn Maxwell,40,0,44,2,110,8,2,4,1,0,
+Scotland Vs Australia,Australia,Adam Zampa,40,0,30,1,75,8,1,2,0,0,
+Scotland Vs Australia,Scotland,Michael Leask,40,0,39,0,975,8,2,3,0,0,
+Scotland Vs Australia,Scotland,Brad Wheal,34,1,28,1,763,12,4,1,0,0,
+Scotland Vs Australia,Scotland,Mark Watt,40,0,34,2,85,10,6,0,1,0,
+Scotland Vs Australia,Scotland,Chris Sole,30,0,33,0,110,4,3,1,1,0,
+Scotland Vs Australia,Scotland,Safyaan Sharif,40,0,42,2,105,8,2,3,3,0,
+Scotland Vs Australia,Scotland,Chris Greaves,10,0,4,0,40,2,0,0,0,0,
+England Vs Namibia,Namibia,David Wiese,20,0,6,1,30,9,1,0,0,0,
+England Vs Namibia,Namibia,Ruben Trumpelmann,20,0,31,2,155,3,2,3,1,0,
+England Vs Namibia,Namibia,Bernard Scholtz,20,0,24,1,120,4,1,2,0,0,
+England Vs Namibia,Namibia,Gerhard Erasmus,20,0,26,0,130,2,2,1,0,0,
+England Vs Namibia,Namibia,Jack Brassell,20,0,32,0,160,2,3,2,0,0,
+England Vs Namibia,England,Reece Topley,20,0,6,0,30,8,0,0,0,1,
+England Vs Namibia,England,Jofra Archer,20,0,15,1,75,7,1,1,1,0,
+England Vs Namibia,England,Sam Curran,20,0,13,0,65,5,2,0,0,0,
+England Vs Namibia,England,Chris Jordan,20,0,19,1,95,4,0,2,0,0,
+England Vs Namibia,England,Adil Rashid,20,0,29,0,145,3,1,3,1,0,
+Uganda Vs New Zealand,New Zealand,Trent Boult,40,1,7,2,175,20,1,0,0,0,
+Uganda Vs New Zealand,New Zealand,Tim Southee,40,1,4,3,10,20,0,0,0,0,
+Uganda Vs New Zealand,New Zealand,Mitchell Santner,34,0,8,2,218,17,0,0,3,0,
+Uganda Vs New Zealand,New Zealand,Lockie Ferguson,40,0,9,1,225,20,1,0,2,0,
+Uganda Vs New Zealand,New Zealand,Rachin Ravindra,30,1,9,2,30,12,1,0,0,0,
+Uganda Vs New Zealand,Uganda,Cosmas Kyewuta,20,0,13,0,65,6,1,0,2,1,
+Uganda Vs New Zealand,Uganda,Juma Miyagi,22,0,16,0,685,7,3,0,0,0,
+Uganda Vs New Zealand,Uganda,Riazat Ali Shah,10,0,10,1,100,3,1,0,4,0,
+South Africa Vs Nepal,Nepal,Sompal Kami,20,1,6,0,30,10,1,0,1,0,
+South Africa Vs Nepal,Nepal,Dipendra Singh Airee,40,0,21,3,525,9,1,0,1,0,
+South Africa Vs Nepal,Nepal,Karan KC,10,0,9,0,90,3,2,0,0,0,
+South Africa Vs Nepal,Nepal,Kushal Malla,20,0,17,0,85,6,2,1,0,0,
+South Africa Vs Nepal,,,,,,,,,,,0,0,
+South Africa Vs Nepal,,,,,,,,,,,1,0,
+South Africa Vs Nepal,Nepal,Abinash Bohara,30,0,19,0,633,8,3,0,0,0,
+South Africa Vs Nepal,South Africa,Marco Jansen,40,0,16,0,40,16,1,1,0,0,
+South Africa Vs Nepal,South Africa,Kagiso Rabada,20,0,17,0,85,6,2,1,0,0,
+South Africa Vs Nepal,South Africa,Ottneil Baartman,40,0,20,0,50,15,3,0,0,0,
+South Africa Vs Nepal,South Africa,Anrich Nortje,40,0,27,1,675,15,3,1,3,0,
+South Africa Vs Nepal,South Africa,Tabraiz Shamsi,40,0,19,4,475,12,0,1,1,0,
+South Africa Vs Nepal,South Africa,Aiden Markram,20,0,8,1,40,4,0,0,0,0,
+Papua New Guinea Vs Afghanistan,Afghanistan,Fazalhaq Farooqi,40,0,16,3,40,17,1,0,1,0,
+Papua New Guinea Vs Afghanistan,Afghanistan,Mohammad Nabi,10,0,9,0,90,1,1,0,0,0,
+Papua New Guinea Vs Afghanistan,Afghanistan,Naveen-ul-Haq,25,0,4,2,141,14,0,0,1,0,
+Papua New Guinea Vs Afghanistan,Afghanistan,Rashid Khan,40,0,25,0,625,10,1,0,1,0,
+Papua New Guinea Vs Afghanistan,Afghanistan,Noor Ahmad,40,0,14,1,35,15,1,0,1,0,
+Papua New Guinea Vs Afghanistan,Afghanistan,Azmatullah Omarzai,20,1,5,0,25,10,1,0,0,0,
+Papua New Guinea Vs Afghanistan,Afghanistan,Karim Janat,20,0,10,0,50,7,1,0,1,0,
+Papua New Guinea Vs Afghanistan,Papua New Guinea,Alei Nao,40,0,26,1,65,14,0,2,3,0,
+Papua New Guinea Vs Afghanistan,Papua New Guinea,Semo Kamea,30,0,16,1,533,10,2,0,2,0,
+Papua New Guinea Vs Afghanistan,Papua New Guinea,Chad Soper,21,0,19,0,876,5,1,1,0,0,
+Papua New Guinea Vs Afghanistan,Papua New Guinea,Norman Vanua,30,0,18,1,60,7,2,0,0,0,
+Papua New Guinea Vs Afghanistan,Papua New Guinea,John Kariko,30,0,15,0,50,9,2,0,0,0,
+Oman Vs England,England,Reece Topley,30,0,12,0,40,11,0,1,0,0,
+Oman Vs England,England,Jofra Archer,32,1,12,3,36,15,2,0,1,0,
+Oman Vs England,England,Mark Wood,30,0,12,3,40,10,1,0,0,0,
+Oman Vs England,England,Adil Rashid,40,0,11,4,275,20,1,0,3,0,
+Oman Vs England,Oman,Bilal Khan,20,0,36,1,180,3,4,3,0,0,
+Oman Vs England,Oman,Kaleemullah,10,0,10,1,100,4,2,0,0,1,
+Oman Vs England,Oman,Fayyaz Butt,1,0,4,0,240,0,1,0,0,0,
+Bangladesh Vs Netherlands,Netherlands,Vivian Kingma,20,0,,,,,,,1,0,
+Bangladesh Vs Netherlands,Netherlands,Aryan Dutt,40,0,,,,,,,1,0,
+Bangladesh Vs Netherlands,Netherlands,Paul van Meekeren,40,0,15,2,375,13,1,0,0,0,
+Bangladesh Vs Netherlands,Netherlands,Logan van Beek,40,0,43,0,1075,9,7,1,1,0,
+Bangladesh Vs Netherlands,Netherlands,Bas de Leede,30,0,31,0,1033,5,5,0,0,0,
+Bangladesh Vs Netherlands,Netherlands,Tim Pringle,30,0,26,1,866,6,3,1,0,0,
+Bangladesh Vs Netherlands,Bangladesh,Mustafizur Rahman,40,0,12,1,30,17,1,0,1,0,
+Bangladesh Vs Netherlands,Bangladesh,Tanzim Hasan Sakib,30,0,23,1,766,9,4,0,0,0,
+Bangladesh Vs Netherlands,Bangladesh,Taskin Ahmed,40,0,30,2,75,13,3,2,0,0,
+Bangladesh Vs Netherlands,Bangladesh,Shakib Al Hasan,40,0,29,0,725,10,1,2,0,0,
+Bangladesh Vs Netherlands,Bangladesh,Rishad Hossain,40,0,33,3,825,11,2,2,0,0,
+Bangladesh Vs Netherlands,Bangladesh,Mahmudullah,10,0,6,1,60,3,1,0,0,0,
+West Indies Vs New Zealand,New Zealand,Trent Boult,40,1,16,3,40,15,2,0,0,0,
+West Indies Vs New Zealand,New Zealand,Tim Southee,40,0,21,2,525,14,2,1,0,0,
+West Indies Vs New Zealand,New Zealand,Lockie Ferguson,40,0,27,2,675,11,2,1,2,0,
+West Indies Vs New Zealand,New Zealand,James Neesham,40,0,27,1,675,9,0,2,1,0,
+West Indies Vs New Zealand,New Zealand,Glenn Phillips,10,0,9,0,90,2,0,1,0,0,
+West Indies Vs New Zealand,New Zealand,Mitchell Santner,20,0,27,1,135,4,2,2,0,0,
+West Indies Vs New Zealand,New Zealand,Daryl Mitchell,10,0,19,0,190,2,0,3,0,0,
+West Indies Vs New Zealand,West Indies,Akeal Hosein,40,0,21,1,525,11,1,1,0,0,
+West Indies Vs New Zealand,West Indies,Romario Shepherd,30,0,36,0,120,7,1,4,2,0,
+West Indies Vs New Zealand,West Indies,Andre Russell,40,0,30,1,75,11,2,2,0,0,
+West Indies Vs New Zealand,West Indies,Alzarri Joseph,40,0,19,4,475,13,2,0,0,0,
+West Indies Vs New Zealand,West Indies,Gudakesh Motie,40,0,25,3,625,11,1,1,0,0,
+West Indies Vs New Zealand,West Indies,Roston Chase,10,0,4,0,40,3,0,0,1,0,
+United States of America Vs India,India,Arshdeep Singh,40,0,9,4,225,17,0,0,1,0,
+United States of America Vs India,India,Mohammed Siraj,40,0,25,0,625,11,1,1,0,0,
+United States of America Vs India,India,Jasprit Bumrah,40,0,25,0,625,14,1,1,1,0,
+United States of America Vs India,India,Hardik Pandya,40,1,14,2,35,19,1,1,0,0,
+United States of America Vs India,India,Shivam Dube,10,0,11,0,110,3,1,1,0,0,
+United States of America Vs India,India,Axar Patel,30,0,25,1,833,5,0,2,1,0,
+United States of America Vs India,United States of America,Saurabh Netravalkar,40,0,18,2,45,13,0,1,0,0,
+United States of America Vs India,United States of America,Ali Khan,32,0,21,1,63,8,2,0,1,0,
+United States of America Vs India,United States of America,Jasdeep Singh,40,0,24,0,60,11,1,1,0,1,
+United States of America Vs India,United States of America,Shadley van Schalkwyk,40,0,25,0,625,8,1,1,0,0,
+United States of America Vs India,United States of America,Corey Anderson,30,0,17,0,566,8,0,1,1,0,
+Namibia Vs Australia,Australia,Josh Hazlewood,40,0,,,,,2,0,1,0,
+Namibia Vs Australia,Australia,Marcus Stoinis,30,0,9,2,30,14,1,0,2,0,
+Namibia Vs Australia,Australia,Pat Cummins,30,1,16,1,533,11,1,1,0,0,
+Namibia Vs Australia,Australia,Adam Zampa,40,0,12,4,30,17,0,1,0,0,
+Namibia Vs Australia,Australia,Nathan Ellis,30,1,12,1,40,13,2,0,0,0,
+Namibia Vs Australia,Namibia,Ruben Trumpelmann,20,0,19,0,95,5,4,0,0,0,
+Namibia Vs Australia,Namibia,David Wiese,10,0,15,1,150,3,2,1,1,0,
+Namibia Vs Australia,Namibia,Ben Shikongo,10,0,19,0,190,1,3,1,0,0,
+Namibia Vs Australia,Namibia,Gerhard Erasmus,10,0,6,0,60,5,0,1,0,0,
+Namibia Vs Australia,Namibia,Jack Brassell,4,0,14,0,210,1,2,1,0,0,
+Canada Vs Pakistan,Pakistan,Shaheen Shah Afridi,40,0,21,1,525,16,2,1,1,0,
+Canada Vs Pakistan,Pakistan,Naseem Shah,40,0,24,1,60,13,2,1,1,0,
+Canada Vs Pakistan,Pakistan,Mohammad Amir,40,0,13,2,325,17,2,0,0,0,
+Canada Vs Pakistan,Pakistan,Haris Rauf,40,0,26,2,65,14,1,1,3,0,
+Canada Vs Pakistan,Pakistan,Imad Wasim,40,0,19,0,475,16,0,2,1,0,
+Canada Vs Pakistan,Canada,Kaleem Sana,30,0,21,0,70,8,1,0,1,0,
+Canada Vs Pakistan,Canada,Jeremy Gordon,33,0,17,1,485,11,1,0,1,0,
+Canada Vs Pakistan,Canada,Dilon Heyliger,40,0,18,2,45,10,0,0,1,0,
+Canada Vs Pakistan,Canada,Saad Bin Zafar,40,0,23,0,575,7,1,0,1,0,
+,,Junaid Siddiqui,30,0,28,0,933,3,0,2,1,0,
+,,Tanzim Hasan Sakib,40,0,18,3,45,17,1,1,2,0,
+,,,,,,,,14,1,1,0,0,
+,,,,,,,,16,1,1,1,0,
+South Africa Vs Bangladesh,Bangladesh,,,,,,,10,2,2,0,0,
+South Africa Vs Bangladesh,Bangladesh,Shakib Al Hasan,10,0,6,0,60,1,0,0,0,0,
+South Africa Vs Bangladesh,Bangladesh,Mahmudullah,30,0,17,0,566,8,0,1,0,0,
+South Africa Vs Bangladesh,South Africa,Marco Jansen,40,0,17,0,425,17,2,0,2,0,
+South Africa Vs Bangladesh,South Africa,Kagiso Rabada,40,0,19,2,475,12,2,0,0,0,
+South Africa Vs Bangladesh,South Africa,Ottneil Baartman,40,0,27,0,675,11,2,1,0,0,
+South Africa Vs Bangladesh,South Africa,Keshav Maharaj,40,0,27,3,675,12,0,2,2,0,
+South Africa Vs Bangladesh,South Africa,Anrich Nortje,40,0,17,2,425,14,1,0,1,1,
+Oman Vs Scotland,Scotland,Mark Watt,40,0,25,1,625,8,2,0,2,0,
+Oman Vs Scotland,Scotland,Brad Wheal,40,0,19,1,475,12,2,0,0,0,
+Oman Vs Scotland,Scotland,Chris Sole,40,0,41,1,1025,7,2,3,0,0,
+Oman Vs Scotland,Scotland,Safyaan Sharif,40,0,40,2,100,6,6,0,0,0,
+Oman Vs Scotland,Scotland,Michael Leask,30,0,21,0,70,8,1,1,1,0,
+Oman Vs Scotland,Scotland,Chris Greaves,10,0,2,1,20,4,0,0,0,0,
+Oman Vs Scotland,Oman,Bilal Khan,21,0,12,1,553,8,2,0,0,0,
+Oman Vs Scotland,Oman,Shakeel Ahmed,20,0,23,0,115,5,2,2,0,0,
+Oman Vs Scotland,Oman,Kaleemullah,20,0,17,0,85,6,2,1,0,0,
+Oman Vs Scotland,,,,,,,,,,,,,
+Oman Vs Scotland,Oman,Mehran Khan,10,0,16,1,160,3,1,1,1,0,
+Oman Vs Scotland,Oman,Zeeshan Maqsood,20,0,22,0,110,4,2,1,0,0,
+Oman Vs Scotland,Oman,Ayaan Khan,10,0,20,0,200,1,0,3,0,0,
+India Vs Pakistan,Pakistan,Shaheen Shah Afridi,40,0,29,1,725,14,1,2,1,0,
+India Vs Pakistan,Pakistan,Naseem Shah,40,0,21,3,525,15,3,0,1,1,
+India Vs Pakistan,Pakistan,Mohammad Amir,40,0,23,2,575,15,3,0,0,0,
+India Vs Pakistan,Pakistan,Iftikhar Ahmed,10,0,7,0,70,3,1,0,1,0,
+India Vs Pakistan,Pakistan,Imad Wasim,30,0,17,0,566,6,1,0,1,0,
+India Vs Pakistan,Pakistan,Haris Rauf,30,0,21,3,70,10,4,0,0,0,
+India Vs Pakistan,India,Arshdeep Singh,40,0,31,1,775,11,4,0,1,0,
+India Vs Pakistan,India,Mohammed Siraj,40,0,19,0,475,11,1,0,1,1,
+,,,,,,,,,,,,,
+India Vs Pakistan,India,Hardik Pandya,40,0,24,2,60,11,1,1,1,0,
+India Vs Pakistan,India,Ravindra Jadeja,20,0,10,0,50,5,1,0,0,0,
+India Vs Pakistan,India,Axar Patel,20,0,11,1,55,6,0,1,0,0,
+West Indies Vs Uganda,Uganda,Alpesh Ramjani,30,0,16,1,533,11,1,1,0,0,
+West Indies Vs Uganda,Uganda,Cosmas Kyewuta,40,0,42,1,105,15,7,1,2,1,
+West Indies Vs Uganda,Uganda,Juma Miyagi,30,0,29,0,966,6,3,1,0,1,
+West Indies Vs Uganda,Uganda,Frank Nsubuga,30,0,29,0,966,4,1,2,0,1,
+West Indies Vs Uganda,Uganda,Brian Masaba,40,0,31,2,775,10,1,2,2,0,
+West Indies Vs Uganda,Uganda,Dinesh Nakrani,30,0,20,1,666,5,2,0,0,0,
+West Indies Vs Uganda,West Indies,Akeal Hosein,40,0,11,5,275,19,2,0,0,0,
+West Indies Vs Uganda,West Indies,Romario Shepherd,20,0,9,1,45,6,1,0,0,0,
+West Indies Vs Uganda,West Indies,Andre Russell,10,0,4,1,40,4,0,0,1,0,
+West Indies Vs Uganda,West Indies,Alzarri Joseph,30,0,6,2,20,14,0,0,1,0,
+West Indies Vs Uganda,West Indies,Gudakesh Motie,20,0,6,1,30,8,0,0,0,0,
+Australia Vs England,England,Moeen Ali,20,0,18,1,90,6,2,1,0,0,
+Australia Vs England,England,Will Jacks,10,0,22,0,220,1,0,3,0,0,
+Australia Vs England,England,Jofra Archer,40,0,28,1,70,11,2,1,1,0,
+Australia Vs England,England,Mark Wood,30,0,32,0,1066,9,2,3,0,0,
+Australia Vs England,England,Adil Rashid,40,0,41,1,1025,7,4,2,1,0,
+Australia Vs England,England,Chris Jordan,40,0,44,2,110,6,4,2,4,0,
+Australia Vs England,England,Liam Livingstone,20,0,15,1,75,2,0,1,0,0,
+Australia Vs England,,,,,,,,,3,3,2,0,
+Australia Vs England,,,,,,,,,4,0,0,0,
+Australia Vs England,,,,,,,,,2,0,1,0,
+Australia Vs England,Australia,Marcus Stoinis,30,0,24,1,80,6,3,0,2,0,
+Australia Vs England,Australia,Adam Zampa,40,0,28,2,70,9,0,2,0,0,
+Australia Vs England,Australia,Glenn Maxwell,20,0,22,0,110,5,0,3,0,0,
+Netherlands Vs South Africa,South Africa,Marco Jansen,40,0,20,2,50,15,2,0,1,1,
+Netherlands Vs South Africa,South Africa,Kagiso Rabada,40,0,27,0,675,12,2,1,1,0,
+Netherlands Vs South Africa,South Africa,Ottneil Baartman,40,0,11,4,275,17,1,0,1,0,
+Netherlands Vs South Africa,South Africa,Anrich Nortje,40,0,19,2,475,14,0,1,1,1,
+Netherlands Vs South Africa,South Africa,Keshav Maharaj,40,0,24,0,60,6,1,0,1,0,
+Netherlands Vs South Africa,Netherlands,Vivian Kingma,40,1,12,2,30,18,0,0,1,0,
+Netherlands Vs South Africa,Netherlands,Logan van Beek,40,1,21,2,525,13,1,1,0,0,
+Netherlands Vs South Africa,Netherlands,Paul van Meekeren,40,1,13,0,325,17,1,0,1,0,
+Netherlands Vs South Africa,Netherlands,Bas de Leede,35,0,34,1,886,12,2,2,0,1,
+Netherlands Vs South Africa,Netherlands,Tim Pringle,20,0,14,0,70,4,0,1,0,0,
+Netherlands Vs South Africa,Netherlands,Vikramjit Singh,10,0,11,0,110,0,0,1,0,0,
+Sri Lanka Vs Bangladesh,Bangladesh,Tanzim Hasan Sakib,40,0,24,1,60,14,2,1,0,0,
+Sri Lanka Vs Bangladesh,Bangladesh,Shakib Al Hasan,30,0,30,0,100,5,4,0,0,0,
+Sri Lanka Vs Bangladesh,Bangladesh,Taskin Ahmed,40,0,25,2,625,12,3,0,1,0,
+Sri Lanka Vs Bangladesh,Bangladesh,Mustafizur Rahman,40,0,17,3,425,14,2,0,1,0,
+Sri Lanka Vs Bangladesh,Bangladesh,Rishad Hossain,40,0,22,3,55,10,1,1,0,0,
+Sri Lanka Vs Bangladesh,Bangladesh,Mahmudullah,10,0,4,0,40,2,0,0,0,0,
+Sri Lanka Vs Bangladesh,Sri Lanka,Dhananjaya de Silva,20,0,11,1,55,3,0,0,1,0,
+Sri Lanka Vs Bangladesh,Sri Lanka,Nuwan Thushara,40,0,18,4,45,14,1,0,5,0,
+Sri Lanka Vs Bangladesh,Sri Lanka,,,,,,,,,,,0,
+Sri Lanka Vs Bangladesh,Sri Lanka,,,,,,,,,,,0,
+Sri Lanka Vs Bangladesh,Sri Lanka,Matheesha Pathirana,40,0,27,1,675,11,1,1,2,0,
+Sri Lanka Vs Bangladesh,Sri Lanka,Dasun Shanaka,10,0,11,0,110,2,0,1,1,0,
+Afghanistan Vs New Zealand,New Zealand,Trent Boult,40,0,22,2,55,12,1,1,0,0,
+Afghanistan Vs New Zealand,New Zealand,Matt Henry,40,0,37,2,925,10,3,2,0,0,
+Afghanistan Vs New Zealand,New Zealand,Mitchell Santner,40,0,24,0,60,11,3,0,0,0,
+Afghanistan Vs New Zealand,New Zealand,Michael Bracewell,30,0,27,0,90,6,0,3,0,0,
+Afghanistan Vs New Zealand,New Zealand,Lockie Ferguson,40,0,28,1,70,12,3,1,0,0,
+Afghanistan Vs New Zealand,New Zealand,Daryl Mitchell,10,0,16,0,160,0,0,2,0,0,
+Afghanistan Vs New Zealand,Afghanistan,Fazalhaq Farooqi,32,0,17,4,51,15,2,0,3,0,
+Afghanistan Vs New Zealand,Afghanistan,Mohammad Nabi,40,0,16,2,40,11,0,0,0,0,
+Afghanistan Vs New Zealand,Afghanistan,Naveen-ul-Haq,30,0,10,0,333,12,1,0,0,0,
+Afghanistan Vs New Zealand,Afghanistan,Rashid Khan,40,0,17,4,425,16,2,0,2,0,
+Afghanistan Vs New Zealand,Afghanistan,Noor Ahmad,10,0,10,0,100,1,0,1,0,0,
+Canada Vs Ireland,Ireland,Mark Adair,40,0,23,1,575,10,2,0,1,0,
+Canada Vs Ireland,Ireland,Josh Little,40,0,37,0,925,6,4,0,2,0,
+Canada Vs Ireland,,,,,,,,,,,1,0,
+Canada Vs Ireland,,,,,,,,,,,0,0,
+Canada Vs Ireland,,,,,,,,,,,0,0,
+Canada Vs Ireland,,,,,,,,,,,1,0,
+Canada Vs Ireland,,,,,,,,,,,3,0,
+Canada Vs Ireland,,,,,,,,,,,1,0,
+Canada Vs Ireland,,,,,,,,,,,0,0,
+Canada Vs Ireland,Canada,Saad Bin Zafar,40,0,22,1,55,7,0,0,0,0,
+Canada Vs Ireland,Canada,Dilon Heyliger,40,0,18,2,45,12,1,0,1,0,
+Namibia Vs Scotland,Scotland,Brad Wheal,40,0,33,3,825,8,2,1,1,1,
+Namibia Vs Scotland,Scotland,Brad Currie,40,0,16,2,40,12,1,0,0,0,
+Namibia Vs Scotland,Scotland,Chris Sole,30,0,23,1,766,7,3,0,1,1,
+Namibia Vs Scotland,Scotland,Mark Watt,40,0,39,0,975,8,4,2,0,0,
+Namibia Vs Scotland,Scotland,Chris Greaves,30,0,24,1,80,5,1,1,0,0,
+Namibia Vs Scotland,Scotland,Michael Leask,20,0,16,1,80,4,1,1,0,0,
+Namibia Vs Scotland,Namibia,Ruben Trumpelmann,40,0,36,1,90,9,1,1,4,1,
+Namibia Vs Scotland,Namibia,David Wiese,33,0,30,0,857,10,1,3,0,0,
+Namibia Vs Scotland,Namibia,Tangeni Lungameni,30,0,39,1,130,4,3,2,1,0,
+Namibia Vs Scotland,Namibia,Bernard Scholtz,40,0,20,1,50,7,1,0,0,0,
+Namibia Vs Scotland,Namibia,Gerhard Erasmus,40,0,29,2,725,9,1,1,2,0,
+Pakistan Vs United States of America,United States of America,Nosthush Kenjige,40,0,30,3,75,10,1,2,0,0,
+Pakistan Vs United States of America,United States of America,Saurabh Netravalkar,40,0,18,2,45,13,0,1,0,0,
+Pakistan Vs United States of America,United States of America,Ali Khan,40,0,30,1,75,8,2,1,2,0,
+Pakistan Vs United States of America,United States of America,Harmeet Singh,40,0,34,0,85,9,2,2,1,0,
+Pakistan Vs United States of America,United States of America,Jasdeep Singh,30,0,37,1,1233,4,2,3,1,0,
+Pakistan Vs United States of America,United States of America,Corey Anderson,10,0,6,0,60,3,1,0,0,0,
+Pakistan Vs United States of America,Pakistan,Shaheen Shah Afridi,40,0,33,0,825,13,5,1,2,0,
+Pakistan Vs United States of America,Pakistan,Mohammad Amir,40,0,25,1,625,12,2,0,3,0,
+Pakistan Vs United States of America,Pakistan,Naseem Shah,40,0,26,1,65,9,3,0,2,0,
+Pakistan Vs United States of America,Pakistan,Haris Rauf,40,0,37,1,925,9,4,1,1,0,
+Pakistan Vs United States of America,Pakistan,Shadab Khan,30,0,27,0,90,4,0,2,1,0,
+Pakistan Vs United States of America,Pakistan,,,,,,,,,0,0,0,
+Australia Vs Oman,Oman,,,,,,,,,1,1,1,
+Australia Vs Oman,Oman,,,,,,,,,1,0,0,
+Australia Vs Oman,Oman,Shakeel Ahmed,40,0,28,0,70,10,2,1,0,1,
+Australia Vs Oman,Oman,Mehran Khan,40,0,38,2,95,12,1,4,0,1,
+Australia Vs Oman,Oman,Aqib Ilyas,40,0,18,0,45,10,1,0,0,0,
+Australia Vs Oman,Oman,Zeeshan Maqsood,10,0,12,0,120,0,2,0,0,0,
+Australia Vs Oman,Australia,Mitchell Starc,30,0,20,2,666,12,3,0,5,0,
+Australia Vs Oman,Australia,Josh Hazlewood,40,0,21,0,525,12,1,1,0,0,
+Australia Vs Oman,Australia,Nathan Ellis,40,0,28,2,70,9,2,1,1,0,
+Australia Vs Oman,Australia,Marcus Stoinis,30,0,19,3,633,11,1,1,1,0,
+Australia Vs Oman,Australia,Glenn Maxwell,20,0,11,0,55,5,1,0,1,0,
+Australia Vs Oman,Australia,Adam Zampa,40,0,24,2,60,11,0,2,0,0,
+Papua New Guinea Vs Uganda,Uganda,Alpesh Ramjani,40,1,17,2,425,16,1,1,0,0,
+Papua New Guinea Vs Uganda,Uganda,Cosmas Kyewuta,31,0,17,2,536,9,2,0,0,0,
+Papua New Guinea Vs Uganda,Uganda,Juma Miyagi,40,0,11,2,275,16,0,0,0,1,
+Papua New Guinea Vs Uganda,Uganda,Brian Masaba,40,0,17,1,425,11,1,0,0,0,
+Papua New Guinea Vs Uganda,Uganda,Frank Nsubuga,40,2,4,2,10,20,0,0,0,0,
+Papua New Guinea Vs Uganda,Papua New Guinea,Alei Nao,40,0,16,2,40,16,0,0,3,0,
+Papua New Guinea Vs Uganda,Papua New Guinea,Norman Vanua,40,0,19,2,475,17,1,0,6,0,
+Papua New Guinea Vs Uganda,Papua New Guinea,Chad Soper,40,0,13,1,325,14,0,0,1,0,
+Papua New Guinea Vs Uganda,Papua New Guinea,Assad Vala,20,0,10,1,50,6,1,0,0,0,
+Papua New Guinea Vs Uganda,Papua New Guinea,John Kariko,40,0,18,0,45,8,0,0,0,0,
+Papua New Guinea Vs Uganda,,,,,,,,,,,,0,
+Ireland Vs India,,,,,,,,,,,,1,
+Ireland Vs India,,,,,,,,,,,,0,
+Ireland Vs India,India,Jasprit Bumrah,30,1,6,2,20,13,0,0,0,0,
+Ireland Vs India,India,Hardik Pandya,40,1,27,3,675,14,2,2,0,0,
+Ireland Vs India,India,Axar Patel,10,0,3,1,30,3,0,0,0,0,
+Ireland Vs India,India,Ravindra Jadeja,10,0,7,0,70,2,1,0,0,0,
+Ireland Vs India,Ireland,Mark Adair,40,0,27,1,675,13,3,0,3,0,
+Ireland Vs India,Ireland,Josh Little,40,0,42,0,105,12,2,4,3,0,
+Ireland Vs India,Ireland,Barry McCarthy,22,0,18,0,771,5,1,1,0,0,
+Ireland Vs India,Ireland,Curtis Campher,10,0,4,0,40,3,0,0,0,0,
+Ireland Vs India,Ireland,Ben White,10,0,6,1,60,3,1,0,0,0,
+Nepal Vs Netherlands,Netherlands,Vivian Kingma,40,0,23,0,575,15,4,0,2,0,
+Nepal Vs Netherlands,Netherlands,Tim Pringle,40,0,20,3,50,13,1,1,0,0,
+Nepal Vs Netherlands,Netherlands,Logan van Beek,32,0,18,3,54,14,2,1,0,0,
+Nepal Vs Netherlands,Netherlands,Paul van Meekeren,40,0,19,2,475,12,2,0,1,0,
+Nepal Vs Netherlands,Netherlands,Bas de Leede,40,1,22,2,55,12,1,1,1,0,
+Nepal Vs Netherlands,Nepal,Karan KC,30,0,17,0,566,10,3,0,0,0,
+Nepal Vs Netherlands,Nepal,Sompal Kami,40,0,18,1,45,12,2,0,0,0,
+Nepal Vs Netherlands,Nepal,Gulsan Jha,20,0,17,0,85,2,2,0,0,1,
+Nepal Vs Netherlands,Nepal,Dipendra Singh Airee,20,0,6,1,30,7,0,0,0,0,
+Nepal Vs Netherlands,Nepal,Abinash Bohara,34,0,29,1,79,5,2,1,0,0,
+Nepal Vs Netherlands,Nepal,,,,,,,,,,,0,
+Afghanistan Vs Uganda,Uganda,,,,,,,,,,,0,
+Afghanistan Vs Uganda,Uganda,Cosmas Kyewuta,40,0,25,2,625,9,2,0,0,0,
+Afghanistan Vs Uganda,Uganda,Dinesh Nakrani,30,0,37,0,1233,2,6,0,0,0,
+Afghanistan Vs Uganda,Uganda,Bilal Hassan,20,0,34,0,170,3,4,1,1,1,
+Afghanistan Vs Uganda,Uganda,Henry Ssenyondo,20,0,19,0,95,4,0,2,1,0,
+Afghanistan Vs Uganda,Uganda,Riazat Ali Shah,10,0,11,0,110,1,1,0,0,0,
+Afghanistan Vs Uganda,Uganda,Brian Masaba,40,0,21,2,525,8,0,0,0,0,
+Afghanistan Vs Uganda,Afghanistan,Fazalhaq Farooqi,40,0,9,5,225,18,1,0,0,0,
+Afghanistan Vs Uganda,Afghanistan,Mujeeb Ur Rahman,30,0,16,1,533,13,2,0,1,0,
+Afghanistan Vs Uganda,Afghanistan,Naveen-ul-Haq,20,0,4,2,20,9,0,0,1,0,
+Afghanistan Vs Uganda,Afghanistan,Azmatullah Omarzai,20,0,7,0,35,8,0,0,1,0,
+Afghanistan Vs Uganda,Afghanistan,Rashid Khan,40,0,12,2,30,16,1,0,0,0,
+Afghanistan Vs Uganda,Afghanistan,Mohammad Nabi,10,0,8,0,80,3,0,1,0,0,
+Sri Lanka Vs South Africa,South Africa,Marco Jansen,31,0,15,0,473,11,0,1,1,0,
+Sri Lanka Vs South Africa,South Africa,Kagiso Rabada,40,1,21,2,525,15,2,1,1,0,
+Sri Lanka Vs South Africa,South Africa,Ottneil Baartman,40,1,9,1,225,20,1,0,1,0,
+Sri Lanka Vs South Africa,South Africa,Keshav Maharaj,40,0,22,2,55,10,0,1,0,0,
+Sri Lanka Vs South Africa,South Africa,Anrich Nortje,40,0,7,4,175,18,0,0,0,0,
+Sri Lanka Vs South Africa,Sri Lanka,Angelo Mathews,30,0,16,0,533,11,1,1,1,0,
+Sri Lanka Vs South Africa,,,,,,,,,,1,0,1,
+Sri Lanka Vs South Africa,,,,,,,,,,0,0,0,
+Sri Lanka Vs South Africa,,,,,,,,,,0,1,0,
+Sri Lanka Vs South Africa,,,,,,,,,,1,0,0,
+Sri Lanka Vs South Africa,Sri Lanka,Maheesh Theekshana,10,0,3,0,30,3,0,0,0,0,
+Oman Vs Namibia,Namibia,Ruben Trumpelmann,40,0,21,4,525,12,2,0,0,1,
+Oman Vs Namibia,Namibia,David Wiese,34,0,28,3,763,11,4,1,0,0,
+Oman Vs Namibia,Namibia,Tangeni Lungameni,40,0,18,0,45,14,2,0,1,0,
+Oman Vs Namibia,Namibia,Bernard Scholtz,40,0,20,1,50,11,0,1,1,0,
+Oman Vs Namibia,Namibia,Gerhard Erasmus,40,0,20,2,50,9,1,0,0,0,T20I # 2634
+Oman Vs Namibia,Oman,Bilal Khan,40,0,25,1,625,11,2,1,1,0,T20I # 2634
+Oman Vs Namibia,Oman,Shakeel Ahmed,30,0,20,0,666,10,4,0,0,0,T20I # 2634
+Oman Vs Namibia,Oman,Kaleemullah,20,0,10,0,50,7,1,0,0,0,T20I # 2634
+Oman Vs Namibia,Oman,Aqib Ilyas,40,1,17,1,425,15,1,1,0,0,T20I # 2634
+Oman Vs Namibia,Oman,Mehran Khan,30,1,7,3,233,12,0,0,0,0,T20I # 2634
+Oman Vs Namibia,Oman,Zeeshan Maqsood,20,0,12,0,60,4,1,0,0,0,T20I # 2634
+Oman Vs Namibia,Oman,Ayaan Khan,20,0,12,1,60,6,1,0,1,0,T20I # 2634
+Papua New Guinea Vs West Indies,West Indies,Akeal Hosein,30,0,9,1,30,13,1,0,0,0,T20I # 2633
+Papua New Guinea Vs West Indies,West Indies,Romario Shepherd,30,0,23,1,766,5,1,0,1,0,T20I # 2633
+Papua New Guinea Vs West Indies,West Indies,Andre Russell,30,0,19,2,633,8,2,0,1,0,T20I # 2633
+Papua New Guinea Vs West Indies,West Indies,Roston Chase,40,0,26,0,65,11,1,1,3,0,T20I # 2633
+Papua New Guinea Vs West Indies,West Indies,Alzarri Joseph,,,,,,,,,1,1,T20I # 2633
+Papua New Guinea Vs West Indies,West Indies,Gudakesh Motie,30,0,24,1,80,7,2,1,0,0,T20I # 2633
+Papua New Guinea Vs West Indies,Papua New Guinea,Kabua Morea,30,0,30,0,100,7,6,0,0,0,T20I # 2633
+Papua New Guinea Vs West Indies,Papua New Guinea,Alei Nao,20,1,9,1,45,9,2,0,0,0,T20I # 2633
+Papua New Guinea Vs West Indies,Papua New Guinea,Chad Soper,30,0,19,1,633,8,2,0,0,0,T20I # 2633
+Papua New Guinea Vs West Indies,Papua New Guinea,Sese Bau,10,0,18,0,180,1,1,2,0,0,T20I # 2633
+Papua New Guinea Vs West Indies,Papua New Guinea,John Kariko,40,0,17,1,425,15,0,1,0,0,T20I # 2633
+Papua New Guinea Vs West Indies,Papua New Guinea,Assad Vala,40,1,28,2,70,11,3,1,0,0,T20I # 2633
+Papua New Guinea Vs West Indies,Papua New Guinea,Charles Amini,20,0,14,0,70,3,0,1,0,0,T20I # 2633
+Canada Vs United States of America,United States of America,Ali Khan,40,0,41,1,1025,11,5,2,2,0,T20I # 2632
+Canada Vs United States of America,United States of America,Saurabh Netravalkar,20,0,16,0,80,3,2,0,0,0,T20I # 2632
+Canada Vs United States of America,United States of America,Harmeet Singh,40,0,27,1,675,11,3,1,0,0,T20I # 2632
+Canada Vs United States of America,United States of America,Jasdeep Singh,30,0,24,0,80,7,4,0,0,0,T20I # 2632
+Canada Vs United States of America,United States of America,Shadley van Schalkwyk,30,0,34,0,1133,1,1,2,0,0,T20I # 2632
+Canada Vs United States of America,United States of America,Steven Taylor,10,0,15,0,150,1,0,2,0,0,T20I # 2632
+Canada Vs United States of America,United States of America,Corey Anderson,30,0,29,1,966,4,2,1,0,0,T20I # 2632
+Canada Vs United States of America,Canada,Kaleem Sana,40,0,34,1,85,9,4,0,3,0,T20I # 2632
+Canada Vs United States of America,West Indies,,,,,,,,,3,3,2,T20I # 2632
+Canada Vs United States of America,,,,,,,,,,1,2,0,T20I # 2632
+Canada Vs United States of America,,,,,,,,,,4,0,0,T20I # 2632
+Canada Vs United States of America,,,,,,,,,,4,2,1,T20I # 2632
+Canada Vs United States of America,Canada,Pargat Singh,10,0,15,0,150,0,1,1,0,0,T20I # 2632
+Scotland Vs England,England,Mark Wood,20,0,11,0,55,7,1,0,1,1,T20I # 2637
+Scotland Vs England,England,Jofra Archer,20,0,12,0,60,6,1,0,0,0,T20I # 2637
+Scotland Vs England,England,Adil Rashid,20,0,26,0,130,2,2,2,0,0,T20I # 2637
+Scotland Vs England,England,Moeen Ali,20,0,15,0,75,3,2,0,0,0,T20I # 2637
+Scotland Vs England,England,Chris Jordan,20,0,24,0,120,5,2,2,0,0,T20I # 2637
